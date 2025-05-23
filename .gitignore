@@ -1,7 +1,6 @@
 
-## Ignore secrets directory
-/secrets
-
+## Ignore secrets 
+*.env
 
 
 
